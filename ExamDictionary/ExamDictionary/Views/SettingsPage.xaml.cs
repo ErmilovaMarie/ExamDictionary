@@ -13,6 +13,31 @@ namespace ExamDictionary.Views
         public SettingsPage()
         {
             InitializeComponent();
+
+            var openUrl = new Button
+            {
+                Text = "Реализовано с помощью сервиса «API «Яндекс.Словарь»"
+            };
+            openUrl.Clicked += (sender, e) => {
+                if (Device.OS != TargetPlatform.WinPhone)
+                {
+                    Device.OpenUri(new Uri("http://api.yandex.ru/dictionary/"));
+                }
+                else
+                {
+                    DisplayAlert("Ошибка", "404", "Закрыть");
+                }
+            };
+
+            Content = new StackLayout
+            {
+                Padding = new Thickness(5, 20, 5, 0),
+                HorizontalOptions = LayoutOptions.Fill,
+                Children = {
+                    openUrl,
+                   }
+            };
         }
+
     }
 }
