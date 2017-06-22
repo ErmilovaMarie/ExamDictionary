@@ -16,8 +16,9 @@ namespace ExamDictionary.Views
 
             var openUrl = new Button
             {
-                Text = "Реализовано с помощью сервиса «API «Яндекс.Словарь»"
-            };
+                Text = "Реализовано с помощью сервиса «API «Яндекс.Словарь»",
+                BackgroundColor = Color.Transparent,
+        };
             openUrl.Clicked += (sender, e) => {
                 if (Device.OS != TargetPlatform.WinPhone)
                 {
@@ -32,7 +33,8 @@ namespace ExamDictionary.Views
             Content = new StackLayout
             {
                 Padding = new Thickness(5, 20, 5, 0),
-                HorizontalOptions = LayoutOptions.Fill,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.Center,
                 Children = {
                     openUrl,
                    }

@@ -59,17 +59,18 @@ namespace ExamDictionary.Views
                 Label label1 = new Label()
                 {
                     Text = "Перевод: ",
+                    TextColor = Color.Black,
                 };
 
                 Label label2 = new Label()
                 {
                     TextColor = Color.FromHex("#000000"),
-                    FontSize = Device.GetNamedSize(NamedSize.Medium, typeof(Label))
+                    FontSize = Device.GetNamedSize(NamedSize.Small, typeof(Label))
                 };
 
                 Label label3 = new Label()
                 {
-                    TextColor = Color.FromHex("#8a8a8a"),
+                    TextColor = Color.FromHex("#B699A9"),
                 };
 
                 Binding binding1 = new Binding { Path = "TranslatedString", Mode = BindingMode.OneWay };
@@ -83,11 +84,12 @@ namespace ExamDictionary.Views
                     Label otherTranslates = new Label()
                     {
                         Text = "Другие переводы: ",
+                        TextColor = Color.Black,
                     };
 
                     StackLayout OtherTranslates = new StackLayout()
                     {
-                        BackgroundColor = Color.FromHex("#EEEEEE")
+                       
                     };
 
                     for (int i = 1; i < Def[0].tr.Count; i++)
@@ -109,11 +111,12 @@ namespace ExamDictionary.Views
                     Label mean = new Label()
                     {
                         Text = "Значения: ",
+                        TextColor = Color.Black,
                     };
 
                     StackLayout Mean = new StackLayout()
                     {
-                        BackgroundColor = Color.FromHex("#EEEEEE")
+                        
                     };
 
                     for (int i = 0; i < Def[0].tr[0].mean.Count; i++)
@@ -135,11 +138,12 @@ namespace ExamDictionary.Views
                     Label syn = new Label()
                     {
                         Text = "Синонимы: ",
+                        TextColor = Color.Black,
                     };
 
                     StackLayout Syn = new StackLayout()
                     {
-                        BackgroundColor = Color.FromHex("#EEEEEE")
+                        
                     };
 
                     for (int i = 0; i < Def[0].tr[0].syn.Count; i++)
@@ -161,11 +165,12 @@ namespace ExamDictionary.Views
                     Label ex = new Label()
                     {
                         Text = "Примеры: ",
+                        TextColor = Color.Black,
                     };
 
                     StackLayout Ex = new StackLayout()
                     {
-                        BackgroundColor = Color.FromHex("#EEEEEE")
+                       
                     };
 
                     for (int i = 0; i < Def[0].tr[0].ex.Count; i++)
@@ -186,12 +191,13 @@ namespace ExamDictionary.Views
                 {
                     Label similar = new Label()
                     {
+                        TextColor = Color.Black,
                         Text = "Части речи: ",
                     };
 
                     StackLayout Similar = new StackLayout()
                     {
-                        BackgroundColor = Color.FromHex("#EEEEEE")
+                        
                     };
 
                     for (int i = 0; i < Def.Count; i++)
@@ -210,7 +216,7 @@ namespace ExamDictionary.Views
 
                 StackLayout stackLayout = new StackLayout()
                 {
-                    BackgroundColor = Color.FromHex("#EEEEEE"),
+                    
                     Children = { label2, label3 }
                 };
 
