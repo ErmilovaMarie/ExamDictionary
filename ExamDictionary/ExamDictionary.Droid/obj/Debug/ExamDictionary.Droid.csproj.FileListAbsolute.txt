@@ -20,7 +20,6 @@ c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictio
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\ExamDictionary.Droid.dll
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\ExamDictionary.Droid.pdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\android\bin\ExamDictionary.Droid.apk
-c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable\icon.png
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-hdpi\icon.png
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xhdpi\icon.png
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
@@ -61,5 +60,17 @@ c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictio
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\bin\Debug\Mono.CSharp.dll.mdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-hdpi\translate.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-hdpi\history.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-hdpi\settings.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xhdpi\translate.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xhdpi\history.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xhdpi\settings.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xxhdpi\translate.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xxhdpi\history.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xxhdpi\settings.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xxhdpi\app.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-xhdpi\app.png
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\res\drawable-hdpi\app.png
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\obj\Debug\ExamDictionary.Droid.dll.mdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary.Droid\bin\Debug\ExamDictionary.Droid.dll.mdb

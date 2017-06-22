@@ -23,3 +23,11 @@ c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictio
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\System.Net.Http.Primitives.xml
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
 c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\obj\Debug\ExamDictionary.dll.mdb
+c:\users\151-321\documents\visual studio 2015\Projects\ExamDictionary\ExamDictionary\ExamDictionary\bin\Debug\ExamDictionary.dll.mdb

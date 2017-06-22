@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ExamDictionary.Views.TranslatePage">
+             x:Class="ExamDictionary.Views.TranslatePage"
+             Icon="translate.png">
   <ScrollView Padding="10,20,20,10">
     <StackLayout>
       <Label x:Name="header" Text="Выберите язык" />
